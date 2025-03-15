@@ -14,7 +14,7 @@ npm install -g cordova
 Projeyi klonlamak için:
 ```bash
 git clone https://github.com/metatronslove/okult-ebced-hesaplayici-cordova-android-app.git
-cd okult-ebced-hesaplayici
+cd okult-ebced-hesaplayici-cordova-android-app-main
 ```
 
 ### 3. Otomatik Kurulum (Linux/macOS)
